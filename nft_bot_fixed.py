@@ -5,9 +5,7 @@ from datetime import datetime, timedelta, timezone
 from aiogram import Bot, Dispatcher, F
 from aiogram.filters import Command, CommandStart
 from aiogram.types import Message, BotCommand, MenuButtonCommands
-from aiogram.enums import ChatMemberStatus
-
-API_TOKEN = "8932725170:AAHoCTL7glWTr8DXsIE1_19xxK8ByAUyiL8"
+from aiogram.enums import 8"
 
 DISPLAY_TZ = timezone(timedelta(hours=3))
 
